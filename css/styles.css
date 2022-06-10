@@ -215,9 +215,6 @@ body {
 }
 
 /* Портфолио */
-.portfolio {
-  background-color: var(--bgc-color);
-}
 
 .filter-btn {
   color: var(--bgc-color);
